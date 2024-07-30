@@ -1,0 +1,211 @@
+constructorId,name,color
+1,McLaren,#FF8700
+2,BMW Sauber,#A3A3A3
+3,Williams,#005AFF
+4,Renault,#FFD700
+5,Toro Rosso,#002D62
+6,Ferrari,#DC0000
+7,Toyota,#A3A3A3
+8,Super Aguri,#FF0000
+9,Red Bull,#1E90FF
+10,Force India,#FF8000
+11,Honda,#FF0000
+12,Spyker,#FF7F00
+13,MF1,#C0C0C0
+14,Spyker MF1,#FF7F00
+15,Sauber,#0044FF
+16,BAR,#FF0000
+17,Jordan,#FFFF00
+18,Minardi,#000000
+19,Jaguar,#006400
+20,Prost,#0000FF
+21,Arrows,#FF8C00
+22,Benetton,#00FF00
+23,Brawn,#A3A3A3
+24,Stewart,#A3A3A3
+25,Tyrrell,#00008B
+26,Lola,#FF0000
+27,Ligier,#0000FF
+28,Forti,#FFFF00
+29,Footwork,#FF0000
+30,Pacific,#000080
+31,Simtek,#800080
+32,Team Lotus,#008000
+33,Larrousse,#0000FF
+34,Brabham,#1E90FF
+35,Dallara,#FF0000
+36,Fondmetal,#808080
+37,March,#0000FF
+38,Andrea Moda,#000000
+39,AGS,#FFFF00
+40,Lambo,#FFFF00
+41,Leyton House,#00FF00
+42,Coloni,#0000FF
+44,Euro Brun,#000080
+45,Osella,#0000FF
+46,Onyx,#FFD700
+47,Life,#FF0000
+48,Rial,#0000FF
+49,Zakspeed,#FF0000
+50,RAM,#000080
+51,Alfa Romeo,#A52A2A
+52,Spirit,#00FFFF
+53,Toleman,#0000FF
+54,ATS,#FFD700
+55,Theodore,#FF0000
+56,Fittipaldi,#FFFF00
+57,Ensign,#000080
+58,Shadow,#000000
+59,Wolf,#000080
+60,Merzario,#FF0000
+61,Kauhsen,#FF4500
+62,Rebaque,#000080
+63,Surtees,#0000FF
+64,Hesketh,#0000FF
+65,Martini,#A3A3A3
+66,BRM,#006400
+67,Penske,#FF0000
+68,LEC,#000080
+69,McGuire,#FFD700
+70,Boro,#FF0000
+71,Apollon,#800080
+72,Kojima,#FF0000
+73,Parnelli,#FFD700
+74,Maki,#FF0000
+75,Embassy Hill,#000080
+76,Lyncar,#0000FF
+77,Trojan,#FFD700
+78,Amon,#0000FF
+79,Token,#000080
+80,Iso Marlboro,#FF0000
+81,Tecno,#0000FF
+82,Matra,#0000FF
+83,Politoys,#000080
+84,Connew,#FF0000
+85,Bellasi,#0000FF
+86,De Tomaso,#FF0000
+87,Cooper,#008000
+88,Eagle,#0000FF
+89,LDS,#0000FF
+90,Protos,#000080
+91,Shannon,#FF0000
+92,Scirocco,#0000FF
+93,RE,#000080
+94,BRP,#006400
+95,Porsche,#A3A3A3
+96,Derrington,#000080
+97,Gilby,#FF0000
+98,Stebro,#000080
+99,Emeryson,#0000FF
+100,ENB,#000080
+101,JBW,#0000FF
+102,Ferguson,#A3A3A3
+103,MBM,#000080
+104,Behra-Porsche,#A3A3A3
+105,Maserati,#FF0000
+106,Scarab,#0000FF
+107,Watson,#FFD700
+108,Epperly,#FF0000
+109,Phillips,#0000FF
+110,Lesovsky,#000080
+111,Trevis,#FFD700
+112,Meskowski,#0000FF
+113,Kurtis Kraft,#FF0000
+114,Kuzma,#000080
+115,Christensen,#0000FF
+116,Ewing,#FFD700
+117,Aston Martin,#006400
+118,Vanwall,#006400
+119,Moore,#0000FF
+120,Dunn,#FF0000
+121,Elder,#0000FF
+122,Sutton,#FF0000
+123,Fry,#FFD700
+124,Tec-Mec,#0000FF
+125,Connaught,#006400
+126,Alta,#FF0000
+127,OSCA,#0000FF
+128,Gordini,#0000FF
+129,Stevens,#000080
+130,Bugatti,#FF0000
+131,Mercedes,#00D2BE
+132,Lancia,#0000FF
+133,HWM,#006400
+134,Schroeder,#FFD700
+135,Pawl,#0000FF
+136,Pankratz,#FF0000
+137,Arzani-Volpini,#000080
+138,Nichels,#0000FF
+139,Bromme,#FFD700
+140,Klenk,#FF0000
+141,Simca,#0000FF
+142,Turner,#FF0000
+143,Del Roy,#FFD700
+144,Veritas,#000080
+145,BMW,#A3A3A3
+146,EMW,#0000FF
+147,AFM,#FF0000
+148,Frazer Nash,#0000FF
+149,Sherman,#FFD700
+150,Deidt,#FF0000
+151,ERA,#006400
+152,Aston Butterworth,#006400
+153,Cisitalia,#FF0000
+154,Talbot-Lago,#0000FF
+155,Hall,#000080
+156,Marchese,#FF0000
+157,Langley,#FFD700
+158,Rae,#000080
+159,Olson,#FF0000
+160,Wetteroth,#FFD700
+161,Adams,#0000FF
+162,Snowberger,#FFD700
+163,Milano,#FF0000
+164,HRT,#FF0000
+167,Cooper-Maserati,#008000
+166,Virgin,#FF0000
+168,Cooper-OSCA,#008000
+169,Cooper-Borgward,#008000
+170,Cooper-Climax,#008000
+171,Cooper-Castellotti,#008000
+172,Lotus-Climax,#008000
+173,Lotus-Maserati,#008000
+174,De Tomaso-Osca,#FF0000
+175,De Tomaso-Alfa Romeo,#FF0000
+176,Lotus-BRM,#008000
+177,Lotus-Borgward,#008000
+178,Cooper-Alfa Romeo,#008000
+179,De Tomaso-Ferrari,#FF0000
+180,Lotus-Ford,#008000
+181,Brabham-BRM,#0000FF
+182,Brabham-Ford,#0000FF
+183,Brabham-Climax,#0000FF
+184,LDS-Climax,#0000FF
+185,LDS-Alfa Romeo,#0000FF
+186,Cooper-Ford,#008000
+187,McLaren-Ford,#FF8700
+188,McLaren-Serenissima,#FF8700
+189,Eagle-Climax,#0000FF
+190,Eagle-Weslake,#0000FF
+191,Brabham-Repco,#0000FF
+192,Cooper-Ferrari,#008000
+193,Cooper-ATS,#008000
+194,McLaren-BRM,#FF8700
+195,Cooper-BRM,#008000
+196,Matra-Ford,#0000FF
+197,BRM-Ford,#006400
+198,McLaren-Alfa Romeo,#FF8700
+199,March-Alfa Romeo,#0000FF
+200,March-Ford,#0000FF
+202,Shadow-Ford,#000000
+203,Shadow-Matra,#000000
+204,Brabham-Alfa Romeo,#0000FF
+205,Lotus,#008000
+206,Marussia,#FF0000
+207,Caterham,#008000
+208,Lotus F1,#008000
+209,Manor Marussia,#FF0000
+210,Haas F1 Team,#A3A3A3
+211,Racing Point,#F596C8
+213,AlphaTauri,#2B4562
+214,Alpine F1 Team,#0090FF
