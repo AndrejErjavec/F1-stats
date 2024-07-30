@@ -1,3 +1,20 @@
+packages <- c(
+  "shiny",
+  "shinyjs",
+  "shinythemes",
+  "tidyverse",
+  "lubridate",
+  "plotly",
+  "DT",
+  "waffle",
+  "scales"
+)
+
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
 library(shiny)
 library(shinyjs)
 library(shinythemes)
