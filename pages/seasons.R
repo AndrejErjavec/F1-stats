@@ -54,8 +54,6 @@ seasonsServer <- function(input, output, session, cr, dr, team_colors) {
       group_by(raceId) %>% 
       arrange(desc(cumulative_sum), .by_group = TRUE) %>% 
       mutate(ranking=seq(1:n())) %>% 
-      {rankings <<- .$ranking %>% unique() %>% length(); .} %>%
-      mutate(ranking = factor(ranking, levels = as.character(1:rankings-1))) %>% 
       ungroup() %>% 
       filter(driverName %in% input$driversSelect) %>% 
       inner_join(team_colors, by="constructorId") %>% 
@@ -65,15 +63,16 @@ seasonsServer <- function(input, output, session, cr, dr, team_colors) {
   
   constructor_standings <- reactive({
     req(input$year, input$constructorsSelect)
-    cr %>% filter(year == input$year & name.y %in% input$constructorsSelect) %>%
+    cr %>% filter(year == input$year) %>%
       arrange(constructorId, raceId) %>%
       group_by(constructorId) %>%
       mutate(cumulative_sum = cumsum(points)) %>%
       ungroup() %>%
       group_by(raceId) %>%
       arrange(desc(cumulative_sum), .by_group = TRUE) %>%
-      mutate(ranking = row_number()) %>% 
+      mutate(ranking=seq(1:n())) %>% 
       ungroup() %>% 
+      filter(name.y %in% input$constructorsSelect) %>%
       inner_join(team_colors, by="constructorId") %>% 
       mutate(raceName = factor(name.x, levels = unique(name.x[order(raceId)])))
   })
